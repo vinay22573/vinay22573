@@ -42,7 +42,11 @@ Here are some of the projects I've worked on:
 *For more projects, please visit my [GitHub repositories](https://github.com/vinay22573?tab=repositories).*
 
 ## 📈 GitHub Stats
+## 📈 GitHub Activity Graph  
 
+![GitHub Activity Graph](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=vinay22573&theme=github_dark)
+![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinay22573&theme=github-dark&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=vinay22573&theme=radical&hide_border=true)
 ![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinay22573&show_icons=true&theme=radical)
 
 
