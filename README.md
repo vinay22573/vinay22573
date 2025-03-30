@@ -11,13 +11,7 @@
 
 I'm a passionate developer with a strong foundation in computer science principles and a keen interest in software development, UI/UX design, and open-source contributions. I enjoy solving complex problems, collaborating on innovative projects, and continuously expanding my skill set.
 
-## 🛠️ Tech Stack
 
-Here are some of the technologies and tools I work with:
-
-## 🛠️ Tech Stack
-
-Here are some of the technologies and tools I work with:
 
 ## 🛠️ Tech Stack
 
