@@ -27,7 +27,7 @@ Here are some of the technologies and tools I work with:
 
 Here are some of the projects I've worked on:
 
-### [PerSisst Lab Website Development](https://github.com/your-repo-link)
+### [PerSisst Lab Website Development]([https://github.com/your-repo-link](https://github.com/vinay22573/PerSIsst-Lab-Website))
 **Advisor:** Dr. Pragma Kar, IIITD  
 **Description:** Designed and developed the frontend of the lab website from scratch using HTML, CSS, Tailwind CSS, JavaScript, TypeScript, and Next.js, creating a responsive and user-friendly interface. Collaborated closely with the professor to gather and implement project requirements, optimizing the website for performance and SEO.
 
