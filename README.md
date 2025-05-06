@@ -17,7 +17,8 @@ I'm a passionate developer with a strong foundation in computer science principl
 
 Here are some of the technologies and tools I work with:
 
-![My Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?lineCount=4&theme=dark&bg=%23000000&badge=%2300bfff&border=%23464646&titleColor=%2300bfff&line1=HTML%2Chtml%2C31fc89%3BCSS%2Ccss%2C31fc89%3BJavaScript%2Cjavascript%2C31fc89%3BTypeScript%2Ctypescript%2C31fc89%3B&line2=React%2Creact%2C00bfff%3BNext.js%2Cnextdotjs%2C00bfff%3BFastAPI%2Cfastapi%2C00bfff%3BFlask%2Cflask%2C00bfff%3BPostgreSQL%2Cpostgresql%2C00bfff%3B&line3=Python%2Cpython%2C31fc89%3CC%2Cc%2C31fc89%3BC%2B%2B%2Ccplusplus%2C31fc89%3BJava%2Cjava%2C31fc89%3BTailwindCSS%2Ctailwindcss%2C31fc89%3B&line4=LaTeX%2Clatex%2C00bfff%3BFigma%2Cfigma%2C00bfff%3BIllustrator%2Cadobeillustrator%2C00bfff%3BPandas%2Cpandas%2C00bfff%3BSQL%2Csql%2C00bfff%3B)
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,fastapi,nodejs,github,vscode,latex,c,cpp,python,java,mysql,sqlite,bootstrap,flask,figma,git,ns3,mariadb,sqlalchemy,javafx,shadcn,frappe" />
+
 
 
 
