@@ -17,7 +17,7 @@ I'm a passionate developer with a strong foundation in computer science principl
 
 Here are some of the technologies and tools I work with:
 
-<img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,fastapi,nodejs,github,vscode,latex,c,cpp,python,java,mysql,sqlite,bootstrap,flask,figma,git,ns3,mariadb,sqlalchemy,javafx,shadcn,frappe" />
+<img align="center" src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,python,fastapi,nodejs,github,vscode,latex,c,cpp,python,java,mysql,sqlite,bootstrap,flask,figma,git,anvil,ns3,mariadb,sqlalchemy,javafx,shadcn,frappe" />
 
 
 
