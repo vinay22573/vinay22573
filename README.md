@@ -49,8 +49,10 @@ Here are some of the projects I've worked on:
 ![GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=vinay22573&theme=github-dark&hide_border=true)
 ![GitHub Streak](https://streak-stats.demolab.com?user=vinay22573&theme=radical&hide_border=true)
 ![Vinay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vinay22573&show_icons=true&theme=radical)
+<!-- WakaTime stats
+[![Vinay's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=vinay22573)](https://wakatime.com/@vinay22573)
 
-
+ -->
 
 ## 📫 Let's Connect
 
