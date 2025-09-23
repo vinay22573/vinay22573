@@ -5,8 +5,8 @@
 
 ## About Me
 
-🎓 **B.Tech in Computer Science and Design**  
-📧 **Email:** [Vinay22573@iiitd.ac.in](mailto:Vinay22573@iiitd.ac.in)  
+<!--🎓 **B.Tech in Computer Science and Design**  -->
+📧 **Email:** [myEmailAddress](mailto:Vinay22573@iiitd.ac.in)  
 📍 **Location:** New Delhi, India
 
 I'm a passionate developer with a strong foundation in computer science principles and a keen interest in software development, UI/UX design, and open-source contributions. I enjoy solving complex problems, collaborating on innovative projects, and continuously expanding my skill set.
@@ -29,15 +29,17 @@ Here are some of the technologies and tools I work with:
 Here are some of the projects I've worked on:
 
 ### [PerSisst Lab Website Development](https://github.com/vinay22573/PerSIsst-Lab-Website)
-**Advisor:** Dr. Pragma Kar, IIITD  
+<!-- **Advisor:** Dr. Pragma Kar, IIITD  -->
 **Description:** Designed and developed the frontend of the lab website from scratch using HTML, CSS, Tailwind CSS, JavaScript, TypeScript, and Next.js, creating a responsive and user-friendly interface. Collaborated closely with the professor to gather and implement project requirements, optimizing the website for performance and SEO.
 
 ### [E-BookStore Management System](https://github.com/your-repo-link)
-**Advisor:** Dr. Vikram Goyal, IIITD  
+<!--
+**Advisor:** Dr. Vikram Goyal, IIITD  -->
 **Description:** Designed and implemented a comprehensive E-BookStore Management System, handling all phases from ER diagram creation to complex database triggers and transaction concurrency. Developed CRUD operations, joins, triggers, and built an intuitive CLI for easy interaction, while optimizing database performance and transaction management for a smooth user experience.
 
 ### [Memory Management System](https://github.com/your-repo-link)
-**Advisor:** Dr. Dhruv Kumar, BITS Pilani  
+<!--
+**Advisor:** Dr. Dhruv Kumar, BITS Pilani  -->
 **Description:** Constructed a Memory Management System in C, applying data structures and C library concepts for optimized memory handling. Deployed advanced memory allocation algorithms and resource management strategies for enhanced system stability.
 
 *For more projects, please visit my [GitHub repositories](https://github.com/vinay22573?tab=repositories).*
@@ -56,7 +58,7 @@ Here are some of the projects I've worked on:
 
 ## 📫 Let's Connect
 
-- **Email:** [Vinay22573@iiitd.ac.in](mailto:Vinay22573@iiitd.ac.in)
+- **Email:** [myEmailAddress](mailto:Vinay22573@iiitd.ac.in)
 - **LinkedIn:** [in](https://linkedin.com/vinay-kumar22573)
 - **GitHub:** [vinay22573](https://github.com/vinay22573)
 
