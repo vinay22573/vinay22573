@@ -32,12 +32,12 @@ Here are some of the projects I've worked on:
 <!-- **Advisor:** Dr. Pragma Kar, IIITD  -->
 **Description:** Designed and developed the frontend of the lab website from scratch using HTML, CSS, Tailwind CSS, JavaScript, TypeScript, and Next.js, creating a responsive and user-friendly interface. Collaborated closely with the professor to gather and implement project requirements, optimizing the website for performance and SEO.
 
-### [E-BookStore Management System](https://github.com/your-repo-link)
+### [E-BookStore Management System]([https://github.com/your-repo-link](https://github.com/vinay22573/BookStore_DBMS))
 <!--
 **Advisor:** Dr. Vikram Goyal, IIITD  -->
 **Description:** Designed and implemented a comprehensive E-BookStore Management System, handling all phases from ER diagram creation to complex database triggers and transaction concurrency. Developed CRUD operations, joins, triggers, and built an intuitive CLI for easy interaction, while optimizing database performance and transaction management for a smooth user experience.
 
-### [Memory Management System](https://github.com/your-repo-link)
+### [Memory Management System]([https://github.com/your-repo-link](https://github.com/vinay22573/Memory-Management-Systems-O.S-))
 <!--
 **Advisor:** Dr. Dhruv Kumar, BITS Pilani  -->
 **Description:** Constructed a Memory Management System in C, applying data structures and C library concepts for optimized memory handling. Deployed advanced memory allocation algorithms and resource management strategies for enhanced system stability.
