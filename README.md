@@ -64,4 +64,4 @@ Here are some of the projects I've worked on:
 
 Feel free to reach out for collaborations, discussions, or any exciting opportunities!
 
-
+[![Vinay Kumar Dubey profile views](https://u8views.com/api/v1/github/profiles/119327266/views/day-week-month-total-count.svg)](https://u8views.com/github/vinay22573)
